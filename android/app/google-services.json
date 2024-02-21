@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199740511151",
+    "project_id": "infiniti-dev-blog",
+    "storage_bucket": "infiniti-dev-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199740511151:android:631a3a6c5b0ce97399555a",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZRKd8jWEA5t-QWqLoCFFTIK7_EAw4DbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
